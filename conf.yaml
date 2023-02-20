@@ -11,4 +11,4 @@ wskey:
   - pin=xxx; wskey=xxx;
   - pin=xxx; wskey=xxx;
 # 是否打印接口返回的body
-print: false
+print: true
