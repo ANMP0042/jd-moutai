@@ -1,0 +1,14 @@
+#抢购个数
+num: 1
+#抢购执行次数
+secNum: 20
+# 抢购时间
+secAt: '2023-02-20 12:00:00'
+skuId: '100012043978'
+# 签名地址
+signDomain: http://42.192.84.47:10090/jd/sign
+wskey:
+  - pin=xxx; wskey=xxx;
+  - pin=xxx; wskey=xxx;
+# 是否打印接口返回的body
+print: false
