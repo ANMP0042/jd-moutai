@@ -7,6 +7,6 @@ secAt: '2023-03-01 12:00:00'
 skuId: '100012043978'
 # 签名地址
 signDomain: http://127.0.0.1:8000/jd/sign
-wskey:
-  - pin=xxx; wskey=xxx;
-  - pin=xxx; wskey=xxx;
+wskey: pin=xxx;wskey=xxx;
+# 支付密码 password: '123456'
+password:
